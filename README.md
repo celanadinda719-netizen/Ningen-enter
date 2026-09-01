@@ -1,2 +1,2 @@
 # Ningen-enter
-Haloo kontol
+kontol
